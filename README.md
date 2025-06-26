@@ -1,4 +1,4 @@
-## About me
+## 👋 About me
 
 안녕하세요! 저는 백엔드 기반의 웹 서비스 개발에 관심이 많습니다.
 지속적인 학습과 실제 서비스 경험을 통해 실용적인 개발 역량을 키워가고 있습니다.
@@ -16,14 +16,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 
-## Experience
+## 💼 Experience
 2024.11. ~ 2025.01. (3개월) LG CNS 웹앱 개발 인턴
 
+
+## Github status
 [![JNYN's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnyn0314&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
