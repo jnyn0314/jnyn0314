@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning: 대규모 트래픽 처리, JWT 기반 인증/인가, AWS 인프라 운영
 
-💡 Interest Areas: Spring Boot 기반 백엔드 개발, 데이터베이스 모델링, 클린 아키텍처, 협업 효율화
+💡 Interest Areas: Spring Boot 기반 백엔드 개발, it 컨설팅, 데이터분석
 
 ## 🛠️ Tech Stack
 
